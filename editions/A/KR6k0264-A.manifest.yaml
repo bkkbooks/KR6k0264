@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6k0264/A/v1
+canonical_location: https://kanripo.org/bkk/KR6k0264/A/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說清淨毘奈耶最上大乘經
+  identifiers:
+    krp: KR6k0264
+    cbeta: A114n1505
+    cbeta_old_id: A114n1505
+    authorityid: CA0007987
+    json_key: A1505
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/A/A114/A114n1505.xml
+    old_id: A114n1505
+  edition:
+    short: A
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0264_000-A.yaml, hash: 'sha256:7192520c66dc87debf7e023b00925df0ee440cfe9a61c888450fbd77df6a46c9'}
+  - {seq: 1, filename: KR6k0264_001-A.yaml, hash: 'sha256:4432cc543284f39a71eb9207eefc7608cb4fc5418bb7ad76242c00bfe0df9e35'}
+  - {seq: 2, filename: KR6k0264_002-A.yaml, hash: 'sha256:db0cfbc0f4378c1c407050a1538dc518334dbcb5e5f4a94dea408d658bbe3372'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0264_000-A.markers.yaml, hash: 'sha256:d95264dffb5a98999942de73cadd72cad357f38a5c0c9df08050d5cce08e5eeb'}
+  - {seq: 1, role: markers, filename: assets/KR6k0264_001-A.markers.yaml, hash: 'sha256:c31898ea98d1c61a133b0284a98d8eaa4bda90a0b6f905be040ecc8895be3666'}
+  - {seq: 2, role: markers, filename: assets/KR6k0264_002-A.markers.yaml, hash: 'sha256:5102d465bb67698c1cc634cecd6439aae2c3e5bd4b11ec785d858360ca145b8d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0264_A_001-juan-start
+    span:
+    - body
+    - 0
+    - 3110
+  label: 佛說清淨毗柰耶最上大乘經卷上門
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0264_A_002-juan-start
+    span:
+    - body
+    - 0
+    - 3670
+  label: 佛說清淨毗柰耶最上大乘經卷中　門
+  type: juan
+  level: 1
+hash: sha256:4b0204367151c0ed0a8afb73bedd3ef5745f44ea998ed9ff15077ac0ed4c9420

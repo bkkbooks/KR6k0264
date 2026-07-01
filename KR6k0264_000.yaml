@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0264/a/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說清淨毘奈耶最上大乘經
+  edition:
+    short: a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/A/A114/A114n1505.xml
+    old_id: A114n1505
+hash: sha256:7192520c66dc87debf7e023b00925df0ee440cfe9a61c888450fbd77df6a46c9
